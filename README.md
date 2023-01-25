@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gugleglugg
-- 👀 I’m a content writer with a love for data-driven SEO decisions
-- 🌱 I’m currently learning R to streamline SEO-related tasks
 
 
 <!---
